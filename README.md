@@ -24,7 +24,11 @@ Hi, I’m Adam! I focus on turning messy operational data into clear insights an
 
 ## Featured Projects
 
+### [Vinted Visibility in AI Search (SQL & AEO Strategy)](https://github.com/YOUR_USERNAME/Vinted-Visibility-Analysis)
 
+* **Goal:** Analyze Vinted's "Share of Model" in AI search results (ChatGPT) compared to competitors like eBay and Depop.
+* **Tech:** SQL (Complex Joins, CASE statements, Aggregations), Data Modeling.
+* **Outcome:** Discovered Vinted dominates 75% of "budget" queries (<€20) but loses significant visibility on specific brand searches due to unstructured listing titles.
 
 ### [SkyTab POS Support Analysis (Python & SQL)](https://github.com/AdamBusinessAnalyst/POS-Support-Call-Driver-Analysis)
 * **Goal:** Analyze support ticket data to distinguish between "Hardware" (connectivity) vs. "Operational" (menu config) friction points.
