@@ -1,30 +1,26 @@
----
-layout: default
----
-
 # Adam Peterson  
 ### Data Analyst · Business Analyst · AI & Automation  
 
 Hi, I’m Adam – a data analyst focused on turning messy operational data into clear insights and practical actions.  
 I work with **SQL, Excel, Python and BI tools** to help teams make better decisions, faster.
 
-[Download Resume](./resume.pdf) · [LinkedIn](https://www.linkedin.com/in/AdamBusinessAnalyst) · [GitHub](https://github.com/AdamBusinessAnalyst)
+ [LinkedIn](https://www.linkedin.com/in/adampeterson1) · [GitHub](https://github.com/AdamBusinessAnalyst)
 
 ---
 
 ## 🧠 Skills & Tools
 
 **Analytics:** SQL · Excel · Spreadsheets · A/B testing · KPI tracking  
-**Programming:** Python (Pandas, Jupyter)  
-**Visualization / BI:** Power BI / Looker Studio (learning)  
-**Other:** GitHub · GitHub Pages · Automation (Zapier / Make)
+**Programming:** Python (NumPY, Pandas, Jupyter)  
+**Visualization:** / Power BI / Looker Studio / Tableau
+**Automation:** Zapier / Make / N8N
+**Other:** GitHub / JIRA / Automation (Zapier / Make / N8N)
 
 ---
 
 ## ⭐ Featured Projects
 
 ### 1. Customer Support KPI Dashboard  
-![Support Dashboard](./images/project-support-kpi.png)
 
 **Goal:** Understand call centre performance and spot issues in service quality.  
 **What I did:**
@@ -41,7 +37,6 @@ I work with **SQL, Excel, Python and BI tools** to help teams make better decisi
 ---
 
 ### 2. Churn & Retention Analysis (Mock SaaS Dataset)  
-![Churn Analysis](./images/project-churn.png)
 
 **Goal:** Find which customers are most likely to leave and why.  
 **What I did:**
@@ -58,7 +53,6 @@ I work with **SQL, Excel, Python and BI tools** to help teams make better decisi
 ---
 
 ### 3. Python Automation – Weekly Performance Report  
-![Automation](./images/project-automation.png)
 
 **Goal:** Save time on repetitive weekly reporting.  
 **What I did:**
@@ -77,16 +71,16 @@ I work with **SQL, Excel, Python and BI tools** to help teams make better decisi
 ## 📚 Learning & Certifications
 
 - IBM Data Analytics Professional Certificate (Coursera)  
-- DataCamp – Intermediate SQL, Excel and Python tracks  
+- DataCamp – SQL, Excel and Python tracks 
 - Ongoing: Building personal projects in SQL, Excel and Python
-
+- AnalystBuilder.com 
 ---
 
 ## 📬 Contact
 
 If you’d like to talk about data roles, freelance projects or collaborations:
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/AdamBusinessAnalyst](https://www.linkedin.com/in/AdamBusinessAnalyst)  
+- 📧 Email: adampetersoncode@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/AdamBusinessAnalyst](https://www.linkedin.com/in/adampeterson1)  
 - 🐙 GitHub: [github.com/AdamBusinessAnalyst](https://github.com/AdamBusinessAnalyst)
 
