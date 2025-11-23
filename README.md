@@ -15,6 +15,11 @@ I work with **SQL, Excel, Python and BI tools** to help teams make better decisi
 **Visualization:** / Power BI / Looker Studio / Tableau
 **Automation:** Zapier / Make / N8N
 **Other:** GitHub / JIRA / Automation (Zapier / Make / N8N)
+Data Analysis: SQL (PostgreSQL, Window Functions), Python (Pandas, NumPy), Excel (Pivot Tables, VLOOKUP).
+
+Visualization: IBM Cognos, Matplotlib, Seaborn.
+
+Business Intelligence: Root Cause Analysis, KPI Monitoring, Cohort Analysis.
 
 ---
 
